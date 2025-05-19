@@ -8,15 +8,6 @@ Computacional
   <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-# Índice 
-
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Objetivos](#objetivos)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-
-
-
 <h1 align="center"> Descrição do Projeto 💻 </h1> 
 
 Trabalho feito para o 6º semestre do curso de Ciências da Computação na UNASP para matéria de Analise de Algoritmos. Fizemos este trabalho como uma forma de
